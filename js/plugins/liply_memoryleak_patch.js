@@ -5,7 +5,7 @@
 // This plugin is released under the MIT License.
 // http://opensource.org/licenses/mit-license.php
 // ----------------------------------------------------------------------------
-// 2015/12/05 ‰”Å
+// 2015/12/05 åˆç‰ˆ
 // ----------------------------------------------------------------------------
 // [Blog]   : http://liply.net/
 // [Twitter]: https://twitter.com/liplynet/
@@ -20,11 +20,11 @@
  * This plugin is released under the MIT License.
  */
 /*:ja
- * @plugindesc ƒƒ‚ƒŠƒŠ[ƒNƒpƒbƒ`
+ * @plugindesc ãƒ¡ãƒ¢ãƒªãƒªãƒ¼ã‚¯ãƒ‘ãƒƒãƒ
  * @author liply
  * 
- * @help Tiling_Sprite‚Ìƒƒ‚ƒŠƒŠ[ƒNƒpƒbƒ`‚Å‚·B
- * MITƒ‰ƒCƒZƒ“ƒX‚Å‚·I
+ * @help Tiling_Spriteã®ãƒ¡ãƒ¢ãƒªãƒªãƒ¼ã‚¯ãƒ‘ãƒƒãƒã§ã™ã€‚
+ * MITãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã§ã™ï¼
  */
 
 (function(){
